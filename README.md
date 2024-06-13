@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # projeto_perguntas
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# projeto_perguntas_flutter
+Pequeno projeto no meu aprendizado de Flutter
+>>>>>>> 6a6fd27f0f5b997d8f5c713a77fee5df4e31d5a3
